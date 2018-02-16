@@ -1,0 +1,6 @@
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\Max Barsana\Documents\Visual Studio 2017\Projects\CallengeSimpleDarts\Darts\obj\Debug\Darts.pdb
